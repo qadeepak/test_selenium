@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="88290" started-at="2017-06-03T16:59:35Z" finished-at="2017-06-03T17:01:04Z">
+    <groups>
+    </groups>
+    <test name="Regression suite 1" duration-ms="88290" started-at="2017-06-03T16:59:35Z" finished-at="2017-06-03T17:01:04Z">
+      <class name="TestCase.Create_Opertunity">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:TestCase.Create_Opertunity@3f3afe78]" name="beforeMethod" is-config="true" duration-ms="19251" started-at="2017-06-03T22:29:35Z" finished-at="2017-06-03T22:29:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Testcase01()[pri:0, instance:TestCase.Create_Opertunity@3f3afe78]" name="Testcase01" duration-ms="64680" started-at="2017-06-03T22:29:55Z" finished-at="2017-06-03T22:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase01 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:TestCase.Create_Opertunity@3f3afe78]" name="afterMethod" is-config="true" duration-ms="4337" started-at="2017-06-03T22:30:59Z" finished-at="2017-06-03T22:31:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- TestCase.Create_Opertunity -->
+    </test> <!-- Regression suite 1 -->
+  </suite> <!-- example suite 1 -->
+</testng-results>
