@@ -242,7 +242,7 @@ public class Create_Opertunity {
 	  report.close();
 	  System.out.println("Its End Of TestCase");
 	  driver.get("G:\\Practice_Sets\\StudioRel\\Reports\\TestReport.html");
-	 
+	 driver.close(); 
   }
 
 }
