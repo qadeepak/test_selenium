@@ -173,7 +173,7 @@ public class Create_Opertunity {
         
        
         
-        Thread.sleep(5000);
+        Thread.sleep(6000);
         
         Sample01.selectcheckbox(driver).click();
         
