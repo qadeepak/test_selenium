@@ -69,7 +69,7 @@ public class Create_Opertunity {
 	  logger.log(LogStatus.PASS, "Snapshot below :"+logger.addScreenCapture(path));
 	  
 	  
-	  Thread.sleep(10000);
+	  Thread.sleep(11000);
 	  
 	  Sample01.add_oppertunity(driver).click();
 	  
